@@ -174,18 +174,18 @@ func (q *Queue) Display() {
 Example output format:
 
 text
-Copy code
+  
 3 - [{buffalo}<-->{deer}<-->{cow}]
 ▶️ How to Run
 Save the code into a file, e.g.:
 
 bash
-Copy code
+  
 lru.go
 Run using Go:
 
 bash
-Copy code
+  
 go run lru.go
 🧪 Example Flow (from main)
  
